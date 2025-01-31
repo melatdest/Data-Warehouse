@@ -52,7 +52,7 @@ This project consists of the following key components:
 ## Setup and Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/melatdest/Data-Warehouse-to-store-data-on-Ethiopian-medical-data-.git
+   git clone https://github.com/melatdest/Data-Warehouse.git
    cd MED DATA
    ```
 2. **Set up a virtual environment**
